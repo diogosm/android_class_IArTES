@@ -18,8 +18,13 @@ Pesquisa dos projetos:
 
 ## Slides
 
-O conteúdo das aulas pode ser encontrado na pasta slides.
+As aulas estão na pasta slides e são divididas nos conteúdos a seguir:
+
+1. Slide 1 - Aula inicial
+2. Slide 2 - Aula para ensinar views, constraint layouts e componentes básicos
+3. Slide 3 - 
 
 ## Códigos
 
 Códigos utilizados em aula estão na pasta codes. Uma descrição mais detalhada de cada pode ser vista aqui: [README.md](https://github.com/diogosm/android_class_IArTES/blob/main/README.md)
+
