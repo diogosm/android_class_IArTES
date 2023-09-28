@@ -5,6 +5,7 @@
 - [Links úteis](#Links-úteis)
 - [Slides](#Slides)
 - [Códigos apresentados em aula](#Códigos)
+- [Referências](#Referencias)
 
 ## Links úteis
 
@@ -27,4 +28,8 @@ As aulas estão na pasta slides e são divididas nos conteúdos a seguir:
 ## Códigos
 
 Códigos utilizados em aula estão na pasta codes. Uma descrição mais detalhada de cada pode ser vista aqui: [README.md](https://github.com/diogosm/android_class_IArTES/blob/main/codes/README.md)
+
+## Referencias
+
+- [RecyclerView - Android Developers](https://developer.android.com/develop/ui/views/layout/recyclerview)
 
