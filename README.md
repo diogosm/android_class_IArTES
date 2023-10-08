@@ -48,6 +48,8 @@ Aqui estão listados os projetos desenvolvidos pelas equipes do IArTES.
 |                |App|Código|Equipe                         |
 |----------------|-------------------------------|-----------------------------|-----------------------------|
 |Equipe 1|`SafeCampus`            |[thiagos98/SafeCampus (github.com)](https://github.com/thiagos98/SafeCampus)           |GABRIELE GUIMARÃES LOPES RODRIGUES, NORA NEYSE TORRES DA CUNHA, SUELEN DA SILVA PEREIRA, THIAGO SANTOS BORGES |
+|Equipe 2|`App RetEnv`            |[jessikaaguido/RENTENV (github.com)](https://github.com/jessikaaguido/RENTENV)          |Frank Azevedo, Jéssika Águido, Vanessa Marinho |
 |Equipe 3|`ConexãoCursos`            |[deboradcm/ConexaoCursosAPP ](https://github.com/deboradcm/ConexaoCursosAPP) |Bruna Mariana Ferreira de Souza, [@deboradcm](https://github.com/deboradcm), Valber Tavares |
 |Equipe 5|`PetSystem`            |[gabrielclavila/ProjetoAndroidIARTES: Projeto Final da Disciplina de Programação para Dispositivos Móveis Android - IARTES (github.com)](https://github.com/gabrielclavila/ProjetoAndroidIARTES)            |Franklin Roosevelt Xavier Dantas, [gabrielclavila](https://github.com/gabrielclavila), Marcela Alves Rodrigues |
-|Equipe 8|`AppDespesas`            |[emily-nicole-aguiar/AppDespesas (github.com)](https://github.com/emily-nicole-aguiar/AppDespesas)            |[@emily-nicole-aguiar](https://github.com/emily-nicole-aguiar/), Hugo Ramos Passos, Jor
+|Equipe 8|`AppDespesas`            |[emily-nicole-aguiar/AppDespesas (github.com)](https://github.com/emily-nicole-aguiar/AppDespesas)            |[@emily-nicole-aguiar](https://github.com/emily-nicole-aguiar/), Hugo Ramos Passos, Jorzélio Alzier Gonçalves |
+|
