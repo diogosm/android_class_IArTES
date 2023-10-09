@@ -47,9 +47,12 @@ Aqui estão listados os projetos desenvolvidos pelas equipes do IArTES.
 
 |                |App|Código|Equipe                         |
 |----------------|-------------------------------|-----------------------------|-----------------------------|
-|Equipe 1|`SafeCampus`            |[thiagos98/SafeCampus (github.com)](https://github.com/thiagos98/SafeCampus)           |GABRIELE GUIMARÃES LOPES RODRIGUES, NORA NEYSE TORRES DA CUNHA, SUELEN DA SILVA PEREIRA, THIAGO SANTOS BORGES |
+|Equipe 1|`SafeCampus`            |[thiagos98/SafeCampus (github.com)](https://github.com/thiagos98/SafeCampus)           |GABRIELE GUIMARÃES LOPES RODRIGUES, NORA NEYSE TORRES DA CUNHA, SUELEN DA SILVA PEREIRA, [@thiagos98](https://github.com/thiagos98) |
 |Equipe 2|`App RetEnv`            |[jessikaaguido/RENTENV (github.com)](https://github.com/jessikaaguido/RENTENV)          |Frank Azevedo, Jéssika Águido, Vanessa Marinho |
 |Equipe 3|`ConexãoCursos`            |[deboradcm/ConexaoCursosAPP ](https://github.com/deboradcm/ConexaoCursosAPP) |Bruna Mariana Ferreira de Souza, [@deboradcm](https://github.com/deboradcm), Valber Tavares |
+|Equipe 4|`SeniorHealth`            |[chmilena/APP_Senior_Health: Senior health app (github.com)](https://github.com/chmilena/APP_Senior_Health) |Charlene Souza de Queiroz, [@chmilena](https://github.com/chmilena), Talita Saraiva Teixeira Nosse |
 |Equipe 5|`PetSystem`            |[gabrielclavila/ProjetoAndroidIARTES: Projeto Final da Disciplina de Programação para Dispositivos Móveis Android - IARTES (github.com)](https://github.com/gabrielclavila/ProjetoAndroidIARTES)            |Franklin Roosevelt Xavier Dantas, [gabrielclavila](https://github.com/gabrielclavila), Marcela Alves Rodrigues |
+|Equipe 6|`Saúde Mental`            |[AnaCristina1972 at Saúde Mental (github.com)](https://github.com/AnaCristina1972/Pagela) |[@AnaCristina1972](https://github.com/AnaCristina1972), [@icarogama](https://github.com/icarogama), [@priscilafraser](https://github.com/priscilafraser) |
+|Equipe 7|`7030Finance`            |[Yeninr/7030Finance (github.com)](https://github.com/Yeninr/7030Finance)            |Bruno Ramos Rodrigues, Silas Silva Filho, [@Yeninr](https://github.com/Yeninr) |
 |Equipe 8|`AppDespesas`            |[emily-nicole-aguiar/AppDespesas (github.com)](https://github.com/emily-nicole-aguiar/AppDespesas)            |[@emily-nicole-aguiar](https://github.com/emily-nicole-aguiar/), Hugo Ramos Passos, Jorzélio Alzier Gonçalves |
 |
